@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/news-homepage)
+- [Solution URL Here](https://github.com/mustafa-abu-eisha/news-homepage)
 - [Live Site URL Here](https://news-homepage-live.pages.dev/)
 
 ## My process
@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- [GitHub Profile](https://github.com/AbuEisha)
-- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/AbuEisha)
+- [GitHub Profile](https://github.com/mustafa-abu-eisha)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/mustafa-abu-eisha)
